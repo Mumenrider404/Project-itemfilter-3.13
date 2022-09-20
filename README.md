@@ -1,3 +1,5 @@
-# Project-itemfilter-3.13
-ItemFilter
-Project-Computer Grinding Gear Games implemented Item filters into the Path of Exile UI so players can customize how the game client displays items on the ground. This feature remedies the time it takes to find useful / valuable items in game. For those who don't have experience with programming or website development, the code for the item filters might seem complex. However, the information provided here will open the door so that you, the player, can understand how the item filters work
+Item filters can be used to customise the item labels, colours, sounds and effects of dropped items, allowing for a personalised aesthetic and feel.
+
+
+
+![image](https://user-images.githubusercontent.com/96345719/191262961-8f84fac6-f6c7-4a4b-ad88-aadb4df9bed4.png)
